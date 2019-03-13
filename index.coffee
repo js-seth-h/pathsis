@@ -1,5 +1,4 @@
-J = require 'jsl'
-debug = J.debug __filename, on
+debug = require('debug') 'pathsis'
 R = require 'ramda'
 path = require 'path'
 fs = require 'fs'

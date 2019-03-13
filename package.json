@@ -1,0 +1,18 @@
+{
+  "name": "pathsis",
+  "version": "1.0.0",
+  "description": "pathsis",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-seth-h/pathsis.git"
+  },
+  "author": "js <js.seth.h@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-seth-h/pathsis/issues"
+  },
+  "homepage": "https://github.com/js-seth-h/pathsis#readme"
+}
